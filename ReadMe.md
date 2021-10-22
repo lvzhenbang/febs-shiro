@@ -8,18 +8,7 @@
 
 FEBS-Shiro是一款简单高效的后台权限管理系统，使用Spring Boot，Shiro和Layui构建。FEBS意指：**F**ast，**E**asy use，**B**eautiful和**S**afe。相信无论作为企业级应用，私活开发脚手架或者权限系统构建学习，FEBS-Shiro都会是一个不错的选择。
 
-### 演示地址
-
-[http://47.104.70.138:8080](http://47.104.70.138:8080/login)
-
-演示环境账号密码：
-
-账号 | 密码| 权限
----|---|---
-scott | 1234qwer | 注册账户，拥有查看，新增权限（新增用户除外）和导出Excel权限
-
-
-本地部署账号密码：
+### 本地部署账号密码
 
 账号 | 密码| 权限
 ---|---|---
@@ -27,13 +16,6 @@ mrbird | 1234qwer |超级管理员，拥有所有增删改查权限
 scott | 1234qwer | 注册账户，拥有查看，新增权限（新增用户除外）和导出Excel权限
 micaela | 1234qwer |系统监测员，负责整个系统监控模块
 Jana   | 1234qwer  |跑批人员，负责任务调度跑批模块
-
-### 更多版本
-当前分支为2.0版本，页面采用Layui全新构建，FEBS的其他版本：
-
-名称 | 描述| 地址
----|---|---
-FEBS-Cloud | 基于Spring Cloud的微服务权限系统 | [https://github.com/wuyouzhuguli/FEBS-Cloud](https://github.com/wuyouzhuguli/FEBS-Cloud)
 
 ### 系统模块
 系统功能模块组成如下所示：
