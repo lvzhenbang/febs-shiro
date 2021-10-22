@@ -1,8 +1,3 @@
-### 特别赞助
-
-<a href="https://www.jetbrains.com/?from=FEBS Shiro">
-    <img src="screenshot/jetbrains.png" width="100px"></a>
-
 ### 编辑器记得安装lombok插件
 
 ### FEBS-Shiro 2.0
@@ -122,51 +117,13 @@ FEBS-Cloud | 基于Spring Cloud的微服务权限系统 | [https://github.com/wu
 #### 手机
 ![screenshot](screenshot/mobile_screenshot_1.jpg)
 ![screenshot](screenshot/mobile_screenshot_2.jpg)
+
 #### Pad
 ![screenshot](screenshot/pad_screenshot_1.jpg)
 ![screenshot](screenshot/pad_screenshot_2.jpg)
 ![screenshot](screenshot/pad_screenshot_3.jpg)
+
 ### 浏览器兼容
 |[<img src="https://raw.github.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png" alt="Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>IE| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari |[<img src="https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Opera
 | --------- | --------- | --------- | --------- | --------- |--------- |
 |IE 10+| Edge| last 15 versions| last 15 versions| last 10 versions| last 15 versions
-### 参与贡献
-欢迎提交PR一起完善项目，以下为提PR并合并的小伙伴（排名不分先后）：
-
-<a href="https://github.com/everhopingandwaiting">
-    <img src="https://avatars3.githubusercontent.com/u/6021724?s=400&v=4" width="45px"></a>
-<a href="https://github.com/mgzu">
-    <img src="https://avatars1.githubusercontent.com/u/29629221?s=400&v=4" width="45px"></a>
-<a href="https://github.com/yuuki80code">
-    <img src="https://avatars0.githubusercontent.com/u/17798853?s=400&v=4" width="45px"></a>
-<a href="https://github.com/cinsin">
-    <img src="https://avatars1.githubusercontent.com/u/12856067?s=400&v=4" width="45px"></a>
-<a href="https://github.com/Minnull">
-    <img src="https://avatars2.githubusercontent.com/u/19608781?s=400&v=4" width="45px"></a>
-<a href="https://github.com/Harrison0x80">
-    <img src="https://avatars2.githubusercontent.com/u/8622915?s=400&v=4" width="45px"></a>
-<a href="https://github.com/notlcry">
-    <img src="https://avatars2.githubusercontent.com/u/1989218?s=400&v=4" width="45px"></a>
-<a href="https://github.com/gelibo">
-    <img src="https://avatars1.githubusercontent.com/u/14520562?s=400&v=4" width="45px"></a>
-<a href="https://github.com/FiseTch">
-    <img src="https://avatars0.githubusercontent.com/u/29654322?s=400&v=4" width="45px"></a>
-<a href="https://github.com/pangPython">
-    <img src="https://avatars3.githubusercontent.com/u/12680677?s=400&v=4" width="45px"></a>
-<a href="https://github.com/atsushinee">
-    <img src="https://avatars2.githubusercontent.com/u/26084189?s=400&v=4" width="45px"></a>
-<a href="https://github.com/liuzhuoming23">
-    <img src="https://avatars1.githubusercontent.com/u/41719224?s=400&v=4" width="45px"></a>
-<a href="https://github.com/yqmmm">
-    <img src="https://avatars2.githubusercontent.com/u/38187913?s=400&v=4" width="45px"></a>
-<a href="https://github.com/wtune">
-    <img src="https://avatars1.githubusercontent.com/u/59522871?s=400&v=4" width="45px"></a>                    
-<a href="https://github.com/robinliu2827">
-    <img src="https://avatars2.githubusercontent.com/u/46709292?s=400&v=4" width="45px"></a> 
-
-### 反馈交流
-
-加入QQ群和大家一起~~交流~~吹水：
-
-![qq](screenshot/QQ.jpg)
-
